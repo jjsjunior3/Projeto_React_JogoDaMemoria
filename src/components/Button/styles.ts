@@ -4,7 +4,7 @@ export const Container = styled.div`
     width: 200px;
     heigth: 50px;
     display: flex;
-    background-color:#1550FF;
+    background-color: #f3cd02;
     border-radius: 10px;
     cursor: pointer;
     transition: all ease .3s;

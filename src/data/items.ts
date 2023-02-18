@@ -1,15 +1,27 @@
-import android from '../svgs/android.svg';
-import caminhao from '../svgs/caminhao.svg';
-import disney from '../svgs/disney.svg';
-import gasolina from '../svgs/gasolina.svg';
-import estrela from '../svgs/estrela.svg';
-import moto from '../svgs/moto.svg';
+import goku from '../svgs/goku.png';
+import bulma from '../svgs/BULMA.png';
+import cell from '../svgs/CELL.png';
+import chichi from '../svgs/CHICHI.png';
+import curirin from '../svgs/CURIRIN.png';
+import freeza from '../svgs/FREEZA.png';
+import gohan from '../svgs/GOHAN.png';
+import goten from '../svgs/GOTEN.png';
+import majinbuu from '../svgs/MAJINBUU.png';
+import piccolo from '../svgs/PICCOLO.png';
+import trunks from '../svgs/TRUNKS.png';
+import vegeta from '../svgs/VEGETA.png';
 
 export const items = [
-    { name: 'android', icon: android },
-    { name: 'caminhao', icon: caminhao},
-    { name: 'disney', icon: disney},
-    { name: 'estrela', icon: estrela},
-    { name: 'gasolina', icon: gasolina},
-    { name: 'moto', icon: moto}
+    { name: 'goku', icon: goku},
+    { name: 'bulma', icon: bulma},
+    { name: 'cell', icon: cell},
+    { name: 'chichi', icon: chichi},
+    { name: 'curirin', icon: curirin},
+    { name: 'freeza', icon: freeza},
+    { name: 'gohan', icon: gohan},
+    { name: 'goten', icon: goten},
+    { name: 'majinbuu', icon: majinbuu},
+    { name: 'piccolo', icon: piccolo},
+    { name: 'trunks', icon: trunks},
+    { name: 'vegeta', icon: vegeta}
 ];

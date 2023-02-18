@@ -4,8 +4,9 @@ export const Container = styled.div`
     width: 100%;
     max-width:750px;
     margin: auto;
+    background-color: #f25601;
     display: flex;
-    padding: 50px 0;
+    padding: 50px 9px;
     @media (max-width: 750px) {
         flex-direction: column;
     }
@@ -48,9 +49,9 @@ export const GridArea = styled.div`
 `;
 
 export const Grid = styled.div`
-    width: 430px;
+    width: 500px;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     gap:10px;
 
     @media (max-width: 750px) {

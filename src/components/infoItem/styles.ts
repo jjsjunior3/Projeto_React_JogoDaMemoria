@@ -6,12 +6,12 @@ export const Container = styled.div`
 
 export const Label = styled.div`
     font-size: 15px;
-    color:#6A7D8B;
+    color:#000;
 `;
 
 export const Value = styled.div`
     font-size: 37px;
     font-weight: bold;
-    color: #101c40;
+    color: #fff;
 
 `;
